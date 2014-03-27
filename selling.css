@@ -1,0 +1,55 @@
+ #sell{
+	margin-top: 60px;
+	width: 965px;
+	border: solid;
+	background-color: white;
+	color: black;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;	
+	border-radius:8px;
+}
+
+#product{
+	margin-left: 15px;
+	border: transparent;
+	float: left;
+}
+
+#views{
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
+#views > img:hover, #other > img:hover{
+	-moz-transform: scale(1.1, 1.1);
+	-webkit-transform: scale(1.1, 1.1);
+	-o-transform: scale(1.1, 1.1);
+	-ms-transform: scale(1.1, 1.1);
+	transform: scale(1.1, 1.1)
+}
+
+#random{
+	width: 700px;
+	margin-left: 125px;
+}
+
+#random > img{
+	margin-left: 10px;
+}
+
+#random > img:hover{
+	-moz-transform: scale(1.1, 1.1);
+	-webkit-transform: scale(1.1, 1.1);
+	-o-transform: scale(1.1, 1.1);
+	-ms-transform: scale(1.1, 1.1);
+	transform: scale(1.1, 1.1)
+}
+
+#tri{
+	font-weight: normal;
+	font-size: 20px;
+}
+
+#zoom{
+	margin-top: -45px;
+}

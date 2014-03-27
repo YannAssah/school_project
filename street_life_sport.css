@@ -1,0 +1,41 @@
+h1{
+	margin-right: 200px;
+	font-family: "Lucida Calligraphy", "Times New Roman", Verdana;
+}
+
+.article{
+	margin: 5px;
+}
+
+#field{
+	/*text-align: left;*/
+}
+#ban{
+	margin-top: 20px;
+}
+	
+	
+#ban:hover{
+	-moz-transform: scale(1.05, 1.05);
+	-webkit-transform: scale(1.05, 1.05);
+	-o-transform: scale(1.05, 1.05);
+	-ms-transform: scale(1.05, 1.05);
+	transform: scale(1.05, 1.05);
+}
+
+.article:hover{
+	-moz-transform: scale(1.1, 1.1);
+	-webkit-transform: scale(1.1, 1.1);
+	-o-transform: scale(1.1, 1.1);
+	-ms-transform: scale(1.1, 1.1);
+	transform: scale(1.1, 1.1)
+}
+
+.arrow:active{
+	-moz-transform: scale(0.89, 0.89);
+	-webkit-transform: scale( 0.89, 0.89);
+	-o-transform: scale(0.89, 0.89);
+	-ms-transform: scale(0.89, 0.89);
+	transform: scale(0.89, 0.89);
+}
+

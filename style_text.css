@@ -1,0 +1,32 @@
+h1{
+	text-align: center;
+}
+
+
+#graph{
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-weight: bold;
+}
+
+#writing, .writing{
+	text-align: left;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+#descriptif{
+	display:none;
+	width:321px;
+	height:321px;
+	background:white;
+	float:left;
+}
+.hover:hover #descriptif{
+display:inline-block;
+}
+
+figure{
+	text-align: center;
+}
